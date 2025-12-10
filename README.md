@@ -114,12 +114,6 @@ src/
 - Social authentication options
 - Protected routes
 
-### QR/Barcode Scanner
-- Camera access handling
-- Multiple barcode format support
-- Error handling and retry mechanism
-- Responsive scanner UI
-
 ## 🎨 Design Choices
 
 ### Color Palette
@@ -156,9 +150,6 @@ src/
 - Created adaptive layouts
 - Optimized touch interactions
 - Implemented responsive images
-
-## Optional bonus points 
-- QR/Barcode Scanner
 
 ## 🙏 Acknowledgments
 
